@@ -8,8 +8,8 @@
 
 | Name             | Testnet                                                                                                                                      |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| UniswapV2Factory | [0xc724D4B518c70beDe7C8388912442b74809558D9](https://explorer.monad-testnet.category.xyz/address/0xc724D4B518c70beDe7C8388912442b74809558D9) |
-| UniswapV2Router  | [0x14B5d9930493a80808555DCf9B228fdEc460cd92](https://explorer.monad-testnet.category.xyz/address/0x14B5d9930493a80808555DCf9B228fdEc460cd92) |
+| UniswapV2Factory | [0xb26338DE76c32d4faFfD11412F9e34bF31151fd8](https://explorer.monad-testnet.category.xyz/address/0xb26338DE76c32d4faFfD11412F9e34bF31151fd8) |
+| UniswapV2Router  | [0xD5ABE08829813D5aE1A9B32c3B16a8Fba07F9506](https://explorer.monad-testnet.category.xyz/address/0xD5ABE08829813D5aE1A9B32c3B16a8Fba07F9506) |
 
 ## Wrapped Monad
 
