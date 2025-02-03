@@ -2,7 +2,7 @@
 
 | Name         | Testnet                                                                                                                                      |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Multicall3   | [0x6cEfcd4DCA776FFaBF6E244616ea573e4d646566](https://explorer.monad-testnet.category.xyz/address/0x6cEfcd4DCA776FFaBF6E244616ea573e4d646566) |
+| Multicall3   | [0xcA11bde05977b3631167028862bE2a173976CA11](https://explorer.monad-testnet.category.xyz/address/0xcA11bde05977b3631167028862bE2a173976CA11) |
 
 ## Uniswap V2
 
