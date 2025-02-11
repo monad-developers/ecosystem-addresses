@@ -16,3 +16,9 @@
 | Name         | Testnet                                                                                                                                      |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | WrappedMonad | [0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701](https://explorer.monad-testnet.category.xyz/address/0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701) |
+
+## CreateX
+
+| Name         | Testnet                                                                                                                                      |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| CreateX      | [0xba5Ed099633D3B313e4D5F7bdc1305d3c28ba5Ed](https://explorer.monad-testnet.category.xyz/address/0xba5Ed099633D3B313e4D5F7bdc1305d3c28ba5Ed) |
