@@ -1,3 +1,10 @@
+## Account Abstraction
+
+| Name         | Testnet                                                                                                                                      |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| EntryPoint v0.6 | [0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789](https://testnet.monadexplorer.com/address/0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789) |
+| EntryPoint v0.7 | [0x0000000071727De22E5E9d8BAf0edAc6f37da032](https://testnet.monadexplorer.com/address/0x0000000071727De22E5E9d8BAf0edAc6f37da032) |
+
 ## CreateX
 
 | Name         | Testnet                                                                                                                                      |
@@ -9,6 +16,12 @@
 | Name         | Testnet                                                                                                                                      |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | Multicall3   | [0xcA11bde05977b3631167028862bE2a173976CA11](https://testnet.monadexplorer.com/address/0xcA11bde05977b3631167028862bE2a173976CA11) |
+
+## Permit2
+
+| Name         | Testnet                                                                                                                                      |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Permit2      | [0x000000000022D473030F116dDEE9F6B43aC78BA3](https://testnet.monadexplorer.com/address/0x000000000022d473030f116ddee9f6b43ac78ba3) |
 
 ## Safe
 
