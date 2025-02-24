@@ -38,7 +38,7 @@
 | USDT | [0x88b8E2161DEDC77EF4ab7585569D2415a1C1055D](https://testnet.monadexplorer.com/address/0x88b8E2161DEDC77EF4ab7585569D2415a1C1055D) |
 | WBTC | [0xcf5a6076cfa32686c0Df13aBaDa2b40dec133F1d](https://testnet.monadexplorer.com/address/0xcf5a6076cfa32686c0Df13aBaDa2b40dec133F1d) |
 | WETH | [0xB5a30b0FDc5EA94A52fDc42e3E9760Cb8449Fb37](https://testnet.monadexplorer.com/address/0xB5a30b0FDc5EA94A52fDc42e3E9760Cb8449Fb37) |
-| WSOL | [0x369CD1E20Fa7ea1F8e6dc0759709bA0bD978abE7](https://testnet.monadexplorer.com/address/0x369CD1E20Fa7ea1F8e6dc0759709bA0bD978abE7) |
+| WSOL | [0xD14c60bbE24E5b8200a9B126b548Dd4754Dc4120](https://testnet.monadexplorer.com/address/0xD14c60bbE24E5b8200a9B126b548Dd4754Dc4120) |
 
 ## Uniswap
 
